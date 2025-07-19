@@ -3,10 +3,10 @@ Can you find the flag in this disk image? The right one is Linux! One wrong step
 **Hint:**How can you extract/isolate a partition?
 
 # Solution:
-Extract the file with `gunzip disko-2.dd.gz`
-Check for partitions with `fdisk -l disko-2.dd`
-You will see two partitions (Linux and FAT32 file systems), extract them and check for the flag.
-Extract the first partition:
+Extract the file with `gunzip disko-2.dd.gz`\
+Check for partitions with `fdisk -l disko-2.dd`\
+You will see two partitions (Linux and FAT32 file systems), extract them and check for the flag.  
+Extract the first partition:  
 `dd if=disko-2.dd of partition1.dd bs=512 skip=2048 count=51200`
 Verify it; you should see something like "Linux rev 1.0 ext4".
 `file partition1.dd`
