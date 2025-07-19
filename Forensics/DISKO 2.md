@@ -1,6 +1,6 @@
 # Problem
-Can you find the flag in this disk image? The right one is Linux! One wrong step and its all gone!
-**Hint:**How can you extract/isolate a partition?
+Can you find the flag in this disk image? The right one is Linux! One wrong step and its all gone!  
+**Hint:** How can you extract/isolate a partition?
 
 # Solution:
 Extract the file with `gunzip disko-2.dd.gz`\
