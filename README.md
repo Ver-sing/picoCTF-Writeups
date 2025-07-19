@@ -7,4 +7,3 @@ Hope it helps...
 - DISKO 2
 - DISKO 3
 
-`like`
