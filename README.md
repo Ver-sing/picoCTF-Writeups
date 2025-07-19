@@ -1,9 +1,6 @@
 # picoCTF-Writeups
 
-Hope it helps...
+Hope this helps...
 
 ## Forensics
-- DISKO 1
-- DISKO 2
-- DISKO 3
-
+- DISKO 2(https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Forensics/DISKO%202.md)
