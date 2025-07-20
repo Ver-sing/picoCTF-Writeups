@@ -1,5 +1,5 @@
 # Problem
-Can the flag be found in this disk image? This time, it is not as plain as it seems!
+Can the flag be found in this disk image? This time, it is not as plain as it seems!  
 **Hint:** How would one search for and extract files from a partition?
 
 # Solution
@@ -24,7 +24,7 @@ This shows three directories. Upon further inspection with `ls -la /mnt/disko/lo
 
 Extract the flag:
 ```bash
-cp /mnt/disko/log/flag.gz .
+cp /mnt/disko/log/flag.gz
 gunzip flag.gz
 cat flag
 ```
