@@ -9,3 +9,7 @@ Hope this helps...
 - [hideme](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Forensics/hideme.md)
 - [information](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Forensics/information.md)
 - [Glory of the Garden](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Forensics/Glory%20of%20the%20Garden.md)
+
+
+## Web Exploitation
+- [SSTI](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/SSTI.md)
