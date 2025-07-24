@@ -13,3 +13,5 @@ Hope this helps...
 
 ## Web Exploitation
 - [SSTI](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/SSTI.md)
+- [n0s4n1ty 1]()
+- [Trickster]()
