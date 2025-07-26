@@ -17,3 +17,5 @@ Hope this helps...
 - [Trickster](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/n0s4n1ty%201.md)
 - [Cookie Monster Secret Recipe](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Cookie%20Monster%20Secret%20Recipe.md)
 - [head-dump](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/head-dump.md)
+- [Bookmarklet](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Bookmarklet.md)
+- [Local Authority](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Local%20Authority.md)
