@@ -19,3 +19,6 @@ Hope this helps...
 - [head-dump](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/head-dump.md)
 - [Bookmarklet](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Bookmarklet.md)
 - [Local Authority](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Local%20Authority.md)
+- [Inspect HTML](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Inspect%20HTML.md)
+- [Includes](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Includes.md)
+- [Unminify](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Unminify.md)
