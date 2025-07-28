@@ -22,3 +22,6 @@ Hope this helps...
 - [Inspect HTML](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Inspect%20HTML.md)
 - [Includes](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Includes.md)
 - [Unminify](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Unminify.md)
+- [Cookies](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Cookies.md)
+- [IntroToBurp](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/IntroToBurp.md)
+- [WebDecode](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/WebDecode.md)
