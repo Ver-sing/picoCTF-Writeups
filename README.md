@@ -25,3 +25,4 @@ Hope this helps...
 - [Cookies](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Cookies.md)
 - [IntroToBurp](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/IntroToBurp.md)
 - [WebDecode](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/WebDecode.md)
+- [Pachinko](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Pachinko.md)
