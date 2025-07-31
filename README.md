@@ -26,3 +26,4 @@ Hope this helps...
 - [IntroToBurp](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/IntroToBurp.md)
 - [WebDecode](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/WebDecode.md)
 - [Pachinko](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/Pachinko.md)
+- [WebSockFish](https://github.com/Ver-sing/picoCTF-Writeups/blob/main/Web%20Exploitation/WebSockFish.md)
